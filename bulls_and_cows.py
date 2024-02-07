@@ -1,3 +1,10 @@
+"""
+Engeto_project_2.py: druhý projekt do Engeto Online Python Akademie
+author: Jana Fleišerová
+email: fleiserova.jana@gmail.com
+discord: Jana F.
+"""
+
 from random import sample
 from time import time
 
