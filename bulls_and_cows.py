@@ -43,7 +43,6 @@ print(f"Hi there!\n"
       f"{separator}\n")
 
 number = adjust_sample()
-print(number)
 start_time = time()
 
 while True:
